@@ -1,0 +1,2 @@
+[functions.reasoning-audit]
+verify_jwt = true
